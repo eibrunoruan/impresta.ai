@@ -1,4 +1,4 @@
-package com.emprestaai.emprestaai_backend.config; // Ajuste o pacote conforme sua estrutura
+package com.emprestaai.emprestaai_backend.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
