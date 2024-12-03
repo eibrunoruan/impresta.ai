@@ -28,7 +28,7 @@ O **Empresta-Ai** é uma API
   "valor": 20000,
   "taxaJuros": 2.54,
   "parcelas": 24,
-  "tipoEmprestimo": "PESSOAL"
+  "tipoEmprestimo": "PESSOAL" //TIPOS: CONSIGNADO, PESSOAL, FGTS
 }
 ```
 ### 2. Simular Pagamento Antecipado
